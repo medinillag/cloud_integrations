@@ -86,7 +86,7 @@ Aplicará los cambios antes listados. Esto puede demorar unos minutos.
 ## Conectar la computadora al clúster
 Ingresar el siguiente comando:
 ```
-az aks get-credentiales --resource-group RG-medinillag --name cluster-medinillag
+az aks get-credentials --resource-group RG-medinillag --name cluster-medinillag
 ```
 
 ## verificar el correcto funcionamiento del clúster
