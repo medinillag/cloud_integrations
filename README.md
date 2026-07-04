@@ -126,3 +126,7 @@ Ingresar el siguiente comando:
 terraform destroy
 ```
 **IMPORTANTE**: Ejecutar este comando al final de todo para evitar incurrir en consumos innecesarios y descontrolados.
+
+## Información final
+Posterior a varios días de haber realizado las prueabas y la presentación del proyecto, ya podemos observar el desgloce de los costos.
+![Costos](image.png)
